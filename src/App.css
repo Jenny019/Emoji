@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.icon {
+  height: 40px;
+  width: 40px;
+}
+
+.button {
+  background: transparent;
+  outline: none;
+  border: none;
+}
